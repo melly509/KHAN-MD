@@ -80,3 +80,4 @@ ANTI_VV: process.env.ANTI_VV || "true",
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
 // make it true for auto recoding 
 };
+KICK_MEMBER:process.env.kivk_members || "true"
